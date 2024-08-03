@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+int functionHola(int x);
 int main()
 {
 
