@@ -6,6 +6,7 @@ int main()
 {
 
     cout << "Blablba" << endl;
+    cout << functionHola(31) << endl;
     return 0;
 }
 
