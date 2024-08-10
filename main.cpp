@@ -3,6 +3,8 @@ using namespace std;
 
 int functionHola(int x);
 float retonarFlotante(float y);
+double retornarDouble(double x);
+
 int main()
 {
 
@@ -20,4 +22,9 @@ int functionHola(int x)
 float retonarFlotante(float y)
 {
     return y * 10.6;
+}
+
+double retornarDouble(double x)
+{
+    return x / 10.3;
 }
